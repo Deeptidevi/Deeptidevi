@@ -4,10 +4,10 @@
   <a href="https://deeptideviportfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://linkedin.com/in/deeptidevi" target="_blank">
+  <a href="https://www.linkedin.com/in/deepti-devi-b43001398/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:deeptidevi@gmail.com">
+  <a href="mailto:pathanialdeepti05@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -20,7 +20,7 @@ I am a **Full Stack Developer** and a Computer Science & Engineering student at 
 - 🌱 I’m currently learning deeper concepts of **Next.js** and **Generative AI**.
 - 🎸 In my free time, I love playing the **guitar** and capturing moments through **photography**.
 - 💬 Ask me about **MERN stack**, **C++**, or **DSA**.
-- 📫 Reach me at: [deeptidevi@gmail.com](mailto:deeptidevi@gmail.com)
+- 📫 Reach me at: [deeptidevi@gmail.com](mailto:pathanialdeepti05@gmail.com)
 
 ---
 
@@ -81,6 +81,6 @@ I am a **Full Stack Developer** and a Computer Science & Engineering student at 
 
 <p align="center">
   <b>Let's connect!</b><br>
-  <a href="https://linkedin.com/in/deeptidevi">LinkedIn</a> • <a href="https://deeptideviportfolio.vercel.app/">Portfolio</a> • <a href="mailto:deeptidevi@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/deepti-devi-b43001398/">LinkedIn</a> • <a href="https://deeptideviportfolio.vercel.app/">Portfolio</a> • <a href="mailto:pathanialdeepti05@gmail.com">Email</a>
 </p>
 
