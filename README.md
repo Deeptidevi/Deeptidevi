@@ -20,7 +20,7 @@ I am a **Full Stack Developer** and a Computer Science & Engineering student at 
 - 🌱 I’m currently learning deeper concepts of **Next.js** and **Generative AI**.
 - 🎸 In my free time, I love playing the **guitar** and capturing moments through **photography**.
 - 💬 Ask me about **MERN stack**, **C++**, or **DSA**.
-- 📫 Reach me at: <a href="mailto:pathanialdeepti05@gmail.com">
+- 📫 Reach me at: [deeptidevi@gmail.com](mailto:pathanialdeepti05@gmail.com)
 
 ---
 
